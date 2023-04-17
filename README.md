@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'am Oussama Fadhli Full-Stack Software Engineer</h1>
 <h3 align="center">A junior Full Stack sofware engineer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.</h3>
 
-</style>
 <img class="image" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" width=400 height=400 alt="coding" />
 
 
