@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **STUDENTS FREELANCE PLATFORM**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.oussamadev-lilac.vercel.app" target="_blank">Visit my portfolio</a>
+- 👨‍💻 All of my projects are available at [Visit My Portfolio](https://oussamadev-lilac.vercel.app/)
 
 - 💬 Ask me about **ReactJS/Django/MySQL/Python/Javascript**
 
