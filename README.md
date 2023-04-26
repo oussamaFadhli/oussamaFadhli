@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **oussamafadhli.work@gmail.com**
 
-- 📄 Know about my experiences [https://cdn.discordapp.com/attachments/859899139055943710/1097553768364654682/OussamaFadhli-CV.pdf](https://cdn.discordapp.com/attachments/859899139055943710/1097553768364654682/OussamaFadhli-CV.pdf)
+- 📄 Know about my experiences [Download My CV](https://cdn.discordapp.com/attachments/859899139055943710/1097553768364654682/OussamaFadhli-CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
