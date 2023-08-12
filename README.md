@@ -4,18 +4,6 @@
 <img class="image" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" width=400 height=400 alt="coding" />
 
 
-- 🔭 I’m currently working on [ERP System](https://github.com/oussamaFadhli/erp-system)
-
-- 🌱 I’m currently learning **DEVOPS**
-
-- 👨‍💻 All of my projects are available at [Visit My Portfolio](https://oussamadev-lilac.vercel.app/)
-
-- 💬 Ask me about **ReactJS & TypeScript / Django / MySQL / Python / Javascript**
-
-- 📫 How to reach me **oussamafadhli.work@gmail.com**
-
-- 📄 Know about my experiences [Download My CV](https://cdn.discordapp.com/attachments/859899139055943710/1115677266324762644/OussamaFadhli-CV.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oussama-fadhli-37a558162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-fadhli" height="30" width="40" /></a>
